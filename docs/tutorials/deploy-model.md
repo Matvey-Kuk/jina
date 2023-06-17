@@ -48,6 +48,7 @@ In this example we need to install:
 ```shell
 pip install jina
 pip install diffusers
+pip install torch
 ```
 
 ## Executor: Implement logic
